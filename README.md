@@ -1,6 +1,6 @@
 # Camera Calibration through Camera Projection Loss Dataset
 
-For the estimation of camera parameters. We propose a updated CVGL Camera Calibration dataset using CARLA Simulator.
+For the estimation of camera parameters. We propose an updated CVGL Camera Calibration dataset using CARLA Simulator.
 
 # Code for Multi-task Learning  for Camera Calibration
 Code from the Proposed approach in the Paper : https://arxiv.org/pdf/2110.03479.pdf
