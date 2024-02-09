@@ -13,18 +13,18 @@ Key features include:
 - Usage of the CARLA Simulator to generate an updated CVGL Camera Calibration dataset
 - Clear and well-structured code for easy use and modification
 
-# Weights for Camera Calibration through Camera Projection Loss
+# Weights for training and testing
 
 All weights are available here:  https://drive.google.com/drive/folders/1wYDCMrJVgWAy3lJEGQsakYLUjYDl7i9s?usp=sharing
 
 # Datasets
 
-CVGL Camera Calibration Dataset :
+Updated CVGL Camera Calibration Dataset :
 https://drive.google.com/drive/folders/1Zd4FPVq4xNU_MKz-gTxKtjj2axgH3IQ6?usp=drive_link
 
-Cityscapes Dataset (Real Dataset): https://www.cityscapes-dataset.com
+Daimler Pedestrian (Real Dataset): Click [here](https://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Stereo_Ped__Detection_/daimler_stereo_ped__detection_.html) for the Daimler Pedestrian Dataset.
 
-Cityscapes Dataset format used for experiments:
+Daimler Pedestrian format used for experiments:
 https://drive.google.com/drive/folders/1Pe1nHpUe6PPtMpQpum-oKuD4v_aYXdfc?usp=drive_link
 
 # About CVGL Camera Calibration Dataset
