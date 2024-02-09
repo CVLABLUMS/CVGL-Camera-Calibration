@@ -1,15 +1,17 @@
-# Camera Calibration through Camera Projection Loss Dataset
+# CAMERA CALIBRATION THROUGH GEOMETRIC CONSTRAINTS FROM ROTATION AND PROJECTION MATRICES
 
-For the estimation of camera parameters. We propose an updated CVGL Camera Calibration dataset using CARLA Simulator.
+This code repository implements the camera calibration approach presented in the paper "Camera Calibration through Geometric Constraints from Rotation and Projection Matrices". It offers efficient and accurate calibration using geometric constraints derived from rotation and projection matrices, providing an alternative to traditional methods.
 
-# Code for Multi-task Learning  for Camera Calibration
-Code from the Proposed approach in the Paper : https://arxiv.org/pdf/2110.03479.pdf
+This repository is valuable for:
 
-Source Git Repo : https://github.com/thanif/CPL
+- Researchers and developers interested in camera calibration using novel geometric constraints
+- Anyone seeking to improve camera performance in robotics, autonomous vehicles or other vision applications
 
-- MTL-CPL-A.ipynb 
-- MTL-CPL-U.ipynb
-- MTL-Baseline.ipynb
+Key features include:
+
+- Implementation of the proposed geometric constraint-based calibration algorithm
+- Usage of the CARLA Simulator to generate an updated CVGL Camera Calibration dataset
+- Clear and well-structured code for easy use and modification
 
 # Weights for Camera Calibration through Camera Projection Loss
 
