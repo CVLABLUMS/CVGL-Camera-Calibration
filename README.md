@@ -93,13 +93,4 @@ Pitch with range from -30 to 30
 
 While making the dataset, we used the values as the difference between left and right camera. e.g. the value for X for first episode is 0.
 
-# Results from Camera Calibration through Camera Projection Loss on this dataset.
-
-<div align="center">
-    <img src="results_updated2.png" </img> 
-</div>
-
-<div align="center">
-    <img src="Results/results_updated.png" </img> 
-</div>
 
