@@ -1,6 +1,6 @@
 # CAMERA CALIBRATION THROUGH GEOMETRIC CONSTRAINTS FROM ROTATION AND PROJECTION MATRICES
 
-This code repository implements the camera calibration approach presented in the paper "Camera Calibration through Geometric Constraints from Rotation and Projection Matrices". It offers efficient and accurate calibration using geometric constraints derived from rotation and projection matrices, providing an alternative to traditional methods.
+This code repository implements the camera calibration approach presented in the paper "Camera Calibration through Geometric Constraints from Rotation and Projection Matrices" available at [https://arxiv.org/abs/2402.08437](https://arxiv.org/abs/2402.08437). It offers efficient and accurate calibration using geometric constraints derived from rotation and projection matrices, providing an alternative to traditional methods.
 
 This repository is valuable for:
 
