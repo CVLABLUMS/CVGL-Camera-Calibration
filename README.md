@@ -33,7 +33,7 @@ The dataset has been collected using the CARLA Simulator gear server available h
 
 The data collector used is available here: https://github.com/carla-simulator/data-collector
 
-The dataset consists of 50 camera configurations with each town having 25 configurations. The parameters modified for generating the configurations include fov, x, y, z, pitch, yaw, and roll. Here, fov is the field of view, (x, y, z) is the translation while (pitch, yaw, and roll) is the rotation between the cameras. The total number of image pairs is 63,600, out of which 38,000 belong to Town 3 while 25,600 belong to Town 5, the difference in the number of images is due to the length of the tracks.
+The dataset consists of 50 camera configurations with each town having 25 configurations. The parameters modified for generating the configurations include fov, x, y, z, pitch, yaw, and roll. Here, fov is the field of view, (x, y, z) is the translation while (pitch, yaw, and roll) is the rotation between the cameras. This dataset comprises over 63,600 stereo RGB images, each with a resolution of 150x150 pixels. Where 10,400 images are from Town 3, 29,000 images are from Town 5 and 24,200 are from Town 6. We have generated more than 900 configurations to approximate real world conditions.
 
 Focal Length is computed as follows: img_size[0]/(2 * np.tan(fov * np.pi/360))
 
