@@ -37,7 +37,7 @@ The dataset consists of 50 camera configurations with each town having 25 config
 
 Focal Length is computed as follows: img_size[0]/(2 * np.tan(fov * np.pi/360))
 
-U0 and V0 are computed as: img_size[0]/2
+Px and Py are computed as: img_size[0]/2
 
 Fx = WINDOW_WIDTH/(2 * tan(fov * pi/360))
 
@@ -57,9 +57,9 @@ xcam, ycam, zcam are computed as follows:
 
 xcam = (Fx * x) / disparity_value
  
-ycam = - (xcam / Fx) * (5 - U0)
+ycam = - (xcam / Fx) * (5 - Px)
                 
-zcam = (xcam / Fy) * (V0 - 5)
+zcam = (xcam / Fy) * (Py - 5)
 
 xworld, yworld, zworld are computed as follows:
 
