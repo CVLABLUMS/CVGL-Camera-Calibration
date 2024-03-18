@@ -92,3 +92,16 @@ Pitch with range from -30 to 30
 While making the dataset, we used the values as the difference between left and right camera. e.g. the value for X for first episode is 0.
 
 
+# Citation
+
+```
+@misc{waleed2024camera,
+      title={Camera Calibration through Geometric Constraints from Rotation and Projection Matrices}, 
+      author={Muhammad Waleed and Abdul Rauf and Murtaza Taj},
+      year={2024},
+      eprint={2402.08437},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
